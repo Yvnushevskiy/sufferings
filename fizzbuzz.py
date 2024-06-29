@@ -74,4 +74,5 @@ def two_squares(n):
             return max(sumsquar)
     else:
         return 0
+
 print(two_squares(369))
