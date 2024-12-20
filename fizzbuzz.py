@@ -1,4 +1,4 @@
-
+//ya v axuei
 import math
 def two_squares(n):
     def find_nearest_minimum(array, target):
